@@ -1,4 +1,4 @@
-#### Learning is an exhilarating journey that never ends. 
+### Learning is an exhilarating journey that never ends. 
 
 The list of things I want to learn is only surpassed by the number of things to learn.
 
