@@ -1,11 +1,9 @@
 ### Learning is an exhilarating journey that never ends. 
 
-The list of things I want to learn is only surpassed by the number of things to learn.
-
 About me -
 
-- I like to write in Python
-- I'm exploring Cloud Technology
+- I like to write in Python 
+- I'm exploring Data Science, Machine Learning and Cloud Technology
 - I occasionally blog about things I learn
 
 ### Stay a little hungry !!!
