@@ -34,7 +34,7 @@ More on [https://vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/T
 </tr></table>
 
 ---
-<a href="https://vidyabhandary.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html/">How this works</a>
+<a href="https://vidyabhandary.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html">How this works</a>
 <a href="https://github.com/vidyabhandary/vidyabhandary/actions"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> 
 
 <!-- ### Hi there 👋 --->
