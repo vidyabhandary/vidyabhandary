@@ -17,7 +17,7 @@ About me -
 * [This post demonstrates post content styles](https://vidyabhandary.github.io/github-pages-with-jekyll/junk/2016/05/20/this-post-demonstrates-post-content-styles.html)
 * [Welcome To Jekyll](https://vidyabhandary.github.io/github-pages-with-jekyll/2016/05/20/welcome-to-jekyll.html)
 <!-- blog ends -->
-More on [vidyabhandary.github.io](https://vidyabhandary.github.io/github-pages-with-jekyll/)
+More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
 <tr>
 
@@ -32,10 +32,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io/github-pages-w
 * [Testing](https://github.com/vidyabhandary/til/blob/master/python/test.md)
 * [Double hash works ?](https://github.com/vidyabhandary/til/blob/master/python/python_check.md)
 <!-- tils ends -->
-More on [https://vidyabhandary.github.io/til/](https://vidyabhandary.github.io/til/)
+More on [https://vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr></table>
 
-<a href="https://github.com/vidyabhandary/vidyabhandary/actions"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> 
 <!--
 <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
 -->
