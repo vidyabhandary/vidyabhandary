@@ -16,8 +16,6 @@ More on [https://vidyabhandary.github.io](https://vidyabhandary.github.io)
 * [Data Science Books (2019 - 2020)](https://vidyabhandary.github.io/blog/machine/learning/2020/07/27/DataScienceBooks2019-2020.html)
 * [MLCourse.ai — Fall 2019](https://vidyabhandary.github.io/blog/machine/learning/2020/07/27/MLCourseai-Fall2019.html)
 * [Swap Bits - Visual](https://vidyabhandary.github.io/blog/bitwise/2020/07/27/Swap-bits.html)
-* [This post demonstrates post content styles](https://vidyabhandary.github.io/blog/junk/2016/05/20/this-post-demonstrates-post-content-styles.html)
-* [Welcome To Jekyll](https://vidyabhandary.github.io/blog/2016/05/20/welcome-to-jekyll.html)
 <!-- blog ends -->
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
@@ -31,8 +29,6 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 * [Convert a datetime object to UTC without using pytz](https://github.com/vidyabhandary/til/blob/master/python/convert-to-utc-without-pytz.md)
 * [Generate primes using Sieve of Erastosthenes](https://github.com/vidyabhandary/til/blob/master/python/generate_primes.md)
 * [Check if a number is prime](https://github.com/vidyabhandary/til/blob/master/python/is_prime.md)
-* [Python set_default() method](https://github.com/vidyabhandary/til/blob/master/python/set_default.md)
-* [Miscellaneous pythonisms](https://github.com/vidyabhandary/til/blob/master/python/misc_python.md)
 <!-- tils ends -->
 More on [https://vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr></table>

@@ -26,7 +26,7 @@ def get_tils():
     page = requests.get(til_readme)
     all_text = page.text
     search_re = re.findall( r'(\*+).(\[.*?\])(\(.*?\)).?-(.+)', all_text, re.M|re.I)
-    dt_til = sorted(search_re, key=lambda search_re: search_re[3], reverse=True)[:5]
+    dt_til = sorted(search_re, key=lambda search_re: search_re[3], reverse=True)[:3]
     
     til_md = ""
     
@@ -56,7 +56,7 @@ if __name__ == "__main__":
 
     readme_contents = readme.open().read()
     
-    entries = fetch_blog_entries()[:5]
+    entries = fetch_blog_entries()[:3]
     entries_md = "\n".join(
         # ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
         ["* [{title}]({url})".format(**entry) for entry in entries]
