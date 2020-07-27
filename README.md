@@ -26,9 +26,9 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ### TIL
 <!-- tils starts -->
 
-* [Lag window function in SQLite](https://github.com/vidyabhandary/til/blob/master/sqlite/lag-window-function.md)
-* [Set environment variables for all steps in a GitHub Action](https://github.com/vidyabhandary/til/blob/master/github-actions/set-environment-for-all-steps.md)
-* [Commit a file if it changed](https://github.com/vidyabhandary/til/blob/master/github-actions/commit-if-file-changed.md)
+* [Partial Sorts Partitioning](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/partial_sort.md)
+* [Regex to retrieve links from a markdown file](https://github.com/vidyabhandary/til/blob/master/regex/get_links.md)
+* [When using SVMs why do we need to scale the features](https://github.com/vidyabhandary/til/blob/master/ml_algorithms/svm_feature_scaling.md)
 <!-- tils ends -->
 More on [https://vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr></table>
