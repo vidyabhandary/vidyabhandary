@@ -37,6 +37,8 @@ More on [https://vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/T
 <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
 -->
 
+![Build README](https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg)
+
 <!-- ### Hi there 👋 --->
 <!--
 **vidyabhandary/vidyabhandary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
