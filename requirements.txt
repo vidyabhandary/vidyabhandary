@@ -1,0 +1,6 @@
+python-graphql-client==0.3.0
+httpx
+feedparser
+GitPython
+sqlite-utils
+
