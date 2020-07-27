@@ -26,9 +26,9 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ### TIL
 <!-- tils starts -->
 
-* [Convert a datetime object to UTC without using pytz](https://github.com/vidyabhandary/til/blob/master/python/convert-to-utc-without-pytz.md)
-* [Generate primes using Sieve of Erastosthenes](https://github.com/vidyabhandary/til/blob/master/python/generate_primes.md)
-* [Check if a number is prime](https://github.com/vidyabhandary/til/blob/master/python/is_prime.md)
+* [Lag window function in SQLite](https://github.com/vidyabhandary/til/blob/master/sqlite/lag-window-function.md)
+* [Set environment variables for all steps in a GitHub Action](https://github.com/vidyabhandary/til/blob/master/github-actions/set-environment-for-all-steps.md)
+* [Commit a file if it changed](https://github.com/vidyabhandary/til/blob/master/github-actions/commit-if-file-changed.md)
 <!-- tils ends -->
 More on [https://vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr></table>
