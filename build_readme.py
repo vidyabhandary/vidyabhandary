@@ -21,7 +21,6 @@ def replace_chunk(content, marker, chunk, inline=False):
 def get_tils():
     til_readme = "https://raw.githubusercontent.com/vidyabhandary/TIL/master/README.md"
     r = requests.get(til_readme)
-    #print(r)
 
     page = requests.get(til_readme)
     all_text = page.text
@@ -33,8 +32,6 @@ def get_tils():
     for i in dt_til:
         til_md += "\n" + i[0] + ' ' + i[1] + i[2]         
        
-    #print(til_md)
-    
     return til_md
 
 def fetch_blog_entries():
@@ -52,8 +49,6 @@ def fetch_blog_entries():
 if __name__ == "__main__":
 
     readme = root / "README.md"
-    print('root is ', root)
-
     readme_contents = readme.open().read()
     
     entries = fetch_blog_entries()[:3]
