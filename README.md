@@ -13,11 +13,11 @@ More on [https://vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 ### On my blog
 <!-- blog starts -->
-* [1st Blog Post](https://vidyabhandary.github.io/github-pages-with-jekyll/2020/07/23/my-first-blog-post.html)
-* [My Example Post](https://vidyabhandary.github.io/github-pages-with-jekyll/2016/05/20/my-example-post.html)
-* [Some articles are just so long they deserve a really long title to see if things will break well](https://vidyabhandary.github.io/github-pages-with-jekyll/misc/2016/05/20/super-long-article.html)
-* [This post demonstrates post content styles](https://vidyabhandary.github.io/github-pages-with-jekyll/junk/2016/05/20/this-post-demonstrates-post-content-styles.html)
-* [Welcome To Jekyll](https://vidyabhandary.github.io/github-pages-with-jekyll/2016/05/20/welcome-to-jekyll.html)
+* [Data Science Books (2019 - 2020)](https://vidyabhandary.github.io/blog/machine/learning/2020/07/27/DataScienceBooks2019-2020.html)
+* [MLCourse.ai — Fall 2019](https://vidyabhandary.github.io/blog/machine/learning/2020/07/27/MLCourseai-Fall2019.html)
+* [Swap Bits - Visual](https://vidyabhandary.github.io/blog/bitwise/2020/07/27/Swap-bits.html)
+* [This post demonstrates post content styles](https://vidyabhandary.github.io/blog/junk/2016/05/20/this-post-demonstrates-post-content-styles.html)
+* [Welcome To Jekyll](https://vidyabhandary.github.io/blog/2016/05/20/welcome-to-jekyll.html)
 <!-- blog ends -->
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
@@ -28,11 +28,11 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ### TIL
 <!-- tils starts -->
 
-* [For testing the date sorting - 2](https://github.com/vidyabhandary/til/blob/master/python/python_setdefault.md)
-* [For testing the date sorting - 1](https://github.com/vidyabhandary/til/blob/master/sqlite/sql_new_11_32.md)
 * [Convert a datetime object to UTC without using pytz](https://github.com/vidyabhandary/til/blob/master/python/convert-to-utc-without-pytz.md)
-* [Testing](https://github.com/vidyabhandary/til/blob/master/python/test.md)
-* [Double hash works ?](https://github.com/vidyabhandary/til/blob/master/python/python_check.md)
+* [Generate primes using Sieve of Erastosthenes](https://github.com/vidyabhandary/til/blob/master/python/generate_primes.md)
+* [Check if a number is prime](https://github.com/vidyabhandary/til/blob/master/python/is_prime.md)
+* [Python set_default() method](https://github.com/vidyabhandary/til/blob/master/python/set_default.md)
+* [Miscellaneous pythonisms](https://github.com/vidyabhandary/til/blob/master/python/misc_python.md)
 <!-- tils ends -->
 More on [https://vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr></table>
