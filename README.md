@@ -5,6 +5,8 @@ About me -
 - I'm exploring Data Science, Machine Learning, Cloud Technology and BlockChain
 - I occasionally blog about things I learn
 
+More on [https://vidyabhandary.github.io](https://vidyabhandary.github.io)
+
 <table><tr>
 
 ---
