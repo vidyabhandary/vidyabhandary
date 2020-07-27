@@ -15,7 +15,7 @@ More on [https://vidyabhandary.github.io](https://vidyabhandary.github.io)
 <!-- blog starts -->
 * [Data Science Books (2019 - 2020)](https://vidyabhandary.github.io/blog/machine/learning/2020/07/27/DataScienceBooks2019-2020.html)
 * [MLCourse.ai — Fall 2019](https://vidyabhandary.github.io/blog/machine/learning/2020/07/27/MLCourseai-Fall2019.html)
-* [Swap Bits - Visual](https://vidyabhandary.github.io/blog/bitwise/2020/07/27/Swap-bits.html)
+* [Self-updating GitHub profile README completely within Github](https://vidyabhandary.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html)
 <!-- blog ends -->
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
