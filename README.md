@@ -33,9 +33,7 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 More on [https://vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr></table>
 
-<!--
-<a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
--->
+<a href="https://vidyabhandary.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html">How this works</a>
 
 ![Build README](https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg)
 
