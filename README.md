@@ -1,9 +1,4 @@
-### Learning is an exhilarating journey that never ends. 
-
-About me -
-
-- I'm exploring Data Science, Machine Learning, Cloud Technology and BlockChain
-- I occasionally blog about things I learn
+### A technology enthusiast - I am currently exploring Data Science, Cloud Technology and BlockChain
 
 More on [https://vidyabhandary.github.io](https://vidyabhandary.github.io)
 
