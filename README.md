@@ -21,9 +21,9 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ### TIL
 <!-- tils starts -->
 
+* [Slicing and Reversing](https://github.com/vidyabhandary/til/blob/master/python/slicing_reversing.md)
 * [Basic MapReduce Understanding](https://github.com/vidyabhandary/til/blob/master/sql/map_reduce.md)
 * [Partial Sorts Partitioning](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/partial_sort.md)
-* [Regex to retrieve links from a markdown file](https://github.com/vidyabhandary/til/blob/master/regex/get_links.md)
 <!-- tils ends -->
 More on [https://vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr></table>
