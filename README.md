@@ -8,9 +8,9 @@ More on [https://vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 ### On my blog
 <!-- blog starts -->
+* [Distributed Ledger Technology: The Science of the Blockchain](https://vidyabhandary.github.io/blog/books/2020/08/12/Distributed-Ledger_Technology.html)
 * [Storytelling with Data](https://vidyabhandary.github.io/blog/books/2020/08/12/StoryTelling-with-data.html)
 * [Learn Git in a Month of Lunches](https://vidyabhandary.github.io/blog/books/2020/08/11/Learn-Git-InA-Month-of-Lunches.html)
-* [My Book List - On Lean In Bangalore](https://vidyabhandary.github.io/blog/books/2020/08/11/My-book-list-on-LeanInBlr.html)
 <!-- blog ends -->
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
