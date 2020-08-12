@@ -8,9 +8,9 @@ More on [https://vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 ### On my blog
 <!-- blog starts -->
+* [My Book List - On Lean In Bangalore](https://vidyabhandary.github.io/blog/books/2020/08/11/My-book-list-on-LeanInBlr.html)
 * [Data Science Books (2019 - 2020)](https://vidyabhandary.github.io/blog/machine/learning/2020/07/27/DataScienceBooks2019-2020.html)
 * [MLCourse.ai — Fall 2019](https://vidyabhandary.github.io/blog/machine/learning/2020/07/27/MLCourseai-Fall2019.html)
-* [Self-updating GitHub profile README completely within Github](https://vidyabhandary.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html)
 <!-- blog ends -->
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
