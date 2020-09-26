@@ -21,9 +21,9 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ### TIL
 <!-- tils starts -->
 
+* [Python Single Underscore](https://github.com/vidyabhandary/til/blob/master/python/underscore.md)
 * [Named Slices](https://github.com/vidyabhandary/til/blob/master/python/named_slice.md)
 * [Python string.punctuation](https://github.com/vidyabhandary/til/blob/master/python/string_punctuation.md)
-* [Slicing and Reversing](https://github.com/vidyabhandary/til/blob/master/python/slicing_reversing.md)
 <!-- tils ends -->
 More on [https://vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr></table>
