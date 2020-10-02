@@ -21,9 +21,9 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ### TIL
 <!-- tils starts -->
 
+* [Create SVG Icon with path info](https://github.com/vidyabhandary/til/blob/master/misc/create_svg_icon.md)
 * [Mini scripts bat file](https://github.com/vidyabhandary/til/blob/master/scripts/script_create_open_folders.md)
 * [Python Single Underscore](https://github.com/vidyabhandary/til/blob/master/python/underscore.md)
-* [Named Slices](https://github.com/vidyabhandary/til/blob/master/python/named_slice.md)
 <!-- tils ends -->
 More on [https://vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr></table>
