@@ -21,9 +21,9 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ### TIL
 <!-- tils starts -->
 
+* [Differences between Containers and Virtual Machines (VMs)](https://github.com/vidyabhandary/til/blob/master/misc/ContainersVsVMs.md)
 * [K-Means vs KNN (K-Nearest Neighbors)](https://github.com/vidyabhandary/til/blob/master/ml_algorithms/KMeansVsKNN.md)
 * [Regex snippets](https://github.com/vidyabhandary/til/blob/master/regex/regex_snips.md)
-* [Create SVG Icon with path info](https://github.com/vidyabhandary/til/blob/master/misc/create_svg_icon.md)
 <!-- tils ends -->
 More on [https://vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr></table>
