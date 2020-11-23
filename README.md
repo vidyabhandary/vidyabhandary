@@ -8,9 +8,9 @@ More on [https://vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 ### On my blog
 <!-- blog starts -->
+* [Recommended Daily Interview Problem Newsletter](https://vidyabhandary.github.io/blog/interview/2020/11/23/Daily-Interview-Problem.html)
 * [Emperor of all Maladies](https://vidyabhandary.github.io/blog/books/2020/10/06/Emperor-Of-All-Maladies.html)
 * [Stuff Matters](https://vidyabhandary.github.io/blog/books/2020/09/12/Stuff-Matters.html)
-* [The Telescope in the Ice](https://vidyabhandary.github.io/blog/books/2020/09/12/Telescope-In-Ice.html)
 <!-- blog ends -->
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
