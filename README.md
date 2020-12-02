@@ -33,7 +33,8 @@ More on [https://vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/T
 <a href="https://vidyabhandary.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html">How this works</a>
 <a href="https://github.com/vidyabhandary/vidyabhandary/actions"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> 
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits)
+<a href="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
+
 
 <!-- ### Hi there 👋 --->
 <!--
