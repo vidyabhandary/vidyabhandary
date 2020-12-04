@@ -8,9 +8,9 @@ More on [https://vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 ### On my blog
 <!-- blog starts -->
+* [Step-by-Step guide to restore old photos](https://vidyabhandary.github.io/blog/image/ai,/deep/learning/2020/12/03/Restore-Old-Photos.html)
 * [User Interface design and User Experience](https://vidyabhandary.github.io/blog/ux,/ui,/design/2020/12/02/UI-UX.html)
 * [Recommended Daily Interview Problem Newsletter](https://vidyabhandary.github.io/blog/interview/2020/11/23/Daily-Interview-Problem.html)
-* [Emperor of all Maladies](https://vidyabhandary.github.io/blog/books/2020/10/06/Emperor-Of-All-Maladies.html)
 <!-- blog ends -->
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
