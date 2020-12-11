@@ -1,6 +1,6 @@
 ### A technology enthusiast - I am currently exploring Data Science, Cloud Technology and BlockChain
 
-More on [https://vidyabhandary.github.io](https://vidyabhandary.github.io)
+More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <table><tr>
 
@@ -25,7 +25,7 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 * [K-Means vs KNN (K-Nearest Neighbors)](https://github.com/vidyabhandary/til/blob/master/ml_algorithms/KMeansVsKNN.md)
 * [Regex snippets](https://github.com/vidyabhandary/til/blob/master/regex/regex_snips.md)
 <!-- tils ends -->
-More on [https://vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
+More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr></table>
 
 ---
