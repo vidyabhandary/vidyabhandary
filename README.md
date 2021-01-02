@@ -8,9 +8,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 ### On my blog
 <!-- blog starts -->
+* [2020 Milestones](https://vidyabhandary.github.io/blog/milestones,/accomplishments/2021/01/01/Milestones-2020.html)
 * [Grokking Algorithms](https://vidyabhandary.github.io/blog/books/2020/12/28/Grokking-Algos.html)
 * [Things to make and do in the fourth dimension](https://vidyabhandary.github.io/blog/books/2020/12/22/Math-4th-dimension.html)
-* [Step-by-Step guide to restore old photos](https://vidyabhandary.github.io/blog/image/ai,/deep/learning/2020/12/03/Restore-Old-Photos.html)
 <!-- blog ends -->
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
