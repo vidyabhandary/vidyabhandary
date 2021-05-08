@@ -1,4 +1,4 @@
-### A technology enthusiast - I am currently exploring Data Science and Cloud Technology 
+###  Python Developer | Cloud Computing & Data Science Enthusiast
 
 More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
