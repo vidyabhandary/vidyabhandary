@@ -8,9 +8,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 ### On my blog
 <!-- blog starts -->
+* [100 Days Of Code](https://vidyabhandary.github.io/blog/2021/05/11/100DaysOfCode.html)
 * [Github Skyline for 2019, 2020 and 2021 (March)](https://vidyabhandary.github.io/blog/github/2021/03/07/github-skyline.html)
 * [Mandelbrot and Julia - Mathematical visualization and beauty](https://vidyabhandary.github.io/blog/mathematics/2021/01/20/Mandelbrot-Julia.html)
-* [Building Machine Learning Powered Applications](https://vidyabhandary.github.io/blog/books/2021/01/12/Building-Machine-Learning-Powered-Applications.html)
 <!-- blog ends -->
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
