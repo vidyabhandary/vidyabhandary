@@ -1,5 +1,4 @@
-###  Python Developer | Cloud Computing & Data Science Enthusiast
-
+###  Python Developer | Data Science Enthusiast 
 More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <table><tr>
@@ -43,6 +42,9 @@ More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
     <a href="https://dev.to/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="vidyabhandary" /></a>
   <a href="https://kaggle.com/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="vidyabhandary"  /></a> 
 </p>  
+
+So much to learn and so little time ....
+
 
 <!-- ### Hi there 👋 --->
 <!--
