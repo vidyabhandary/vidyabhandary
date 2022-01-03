@@ -20,9 +20,9 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ### TIL
 <!-- tils starts -->
 
+* [Declarative Language vs Imperative Language](https://github.com/vidyabhandary/til/blob/master/sql/DeclarativeVsImperative.md)
 * [Selecting columns](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/select_columns.md)
 * [Drop rows with no values](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/drop_na.md)
-* [Differences between Containers and Virtual Machines (VMs)](https://github.com/vidyabhandary/til/blob/master/misc/ContainersVsVMs.md)
 <!-- tils ends -->
 More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr></table>
