@@ -43,8 +43,6 @@ More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   <a href="https://kaggle.com/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="vidyabhandary"  /></a> 
 </p>  
 
-So much to learn and so little time ....
-
 
 <!-- ### Hi there 👋 --->
 <!--
