@@ -14,6 +14,12 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
 
+### TIL snippets
+<!-- tilentries starts -->
+<!-- tilentries ends -->
+More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
+</tr>
+
 </table>
 
 ---
