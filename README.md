@@ -13,7 +13,8 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 <!-- blog ends -->
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
-
+---
+<tr>
 ### TIL snippets
 <!-- tilentries starts -->
 
