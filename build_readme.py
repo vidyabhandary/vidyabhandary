@@ -29,7 +29,7 @@ def get_tils():
     
     print('~' * 50)
     print('dt_til upto 3', dt_til)
-     print('~' * 50)
+    print('~' * 50)
         
     til_md = ""
     
