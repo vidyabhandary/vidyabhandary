@@ -27,11 +27,17 @@ def get_tils():
     search_re = re.findall( r'(\*+).(\[.*?\])(\(.*?\)).?-(.+)', all_text, re.M|re.I)
     dt_til = sorted(search_re, key=lambda search_re: search_re[3], reverse=True)[:3]
     
+    print('~' * 50)
+    print('dt_til upto 3', dt_til)
+    
     til_md = ""
     
     for i in dt_til:
         til_md += "\n" + i[0] + ' ' + i[1] + i[2]         
-       
+
+    print('~' * 50)
+    print('til_md upto 3', til_md)
+        
     return til_md
 
 def fetch_blog_entries():
