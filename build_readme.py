@@ -72,7 +72,7 @@ if __name__ == "__main__":
     print('til_readme_contents', til_readme_contents)
     print('~' * 50)
     
-    rewritten = replace_chunk(rewritten, "tils", til_readme_contents)    
+    rewritten = replace_chunk(rewritten, "tilentries", til_readme_contents)    
 
     print('~' * 50)
     print('rewritten after getting tils', rewritten)
