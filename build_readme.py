@@ -29,7 +29,8 @@ def get_tils():
     
     print('~' * 50)
     print('dt_til upto 3', dt_til)
-    
+     print('~' * 50)
+        
     til_md = ""
     
     for i in dt_til:
@@ -37,6 +38,7 @@ def get_tils():
 
     print('~' * 50)
     print('til_md upto 3', til_md)
+    print('~' * 50)
         
     return til_md
 
@@ -65,6 +67,16 @@ if __name__ == "__main__":
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
 
     til_readme_contents = get_tils()
+    
+    print('~' * 50)
+    print('til_readme_contents', til_readme_contents)
+    print('~' * 50)
+    
     rewritten = replace_chunk(rewritten, "tils", til_readme_contents)    
+
+    print('~' * 50)
+    print('rewritten after getting tils', rewritten)
+    print('~' * 50)
+    
     
     readme.open("w").write(rewritten)
