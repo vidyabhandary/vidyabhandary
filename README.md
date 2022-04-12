@@ -18,12 +18,12 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ---
   
 ### TIL
-<!-- tils starts  -->
+<!-- tilentries starts  -->
 
 * [Declarative Language vs Imperative Language](https://github.com/vidyabhandary/til/blob/master/sql/DeclarativeVsImperative.md)
 * [Selecting columns](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/select_columns.md)
 * [Drop rows with no values](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/drop_na.md)
-<!-- tils ends -->
+<!-- tilentries ends -->
 More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr></table>
 
