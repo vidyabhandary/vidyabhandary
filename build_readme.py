@@ -25,7 +25,7 @@ def get_tils():
     page = requests.get(til_readme)
     all_text = page.text
     search_re = re.findall( r'(\*+).(\[.*?\])(\(.*?\)).?-(.+)', all_text, re.M|re.I)
-    dt_til = sorted(search_re, key=lambda search_re: search_re[4], reverse=True)[:4]
+    dt_til = sorted(search_re, key=lambda search_re: search_re[3], reverse=True)[:4]
     
     print('~' * 50)
     print('dt_til upto 4', dt_til)
