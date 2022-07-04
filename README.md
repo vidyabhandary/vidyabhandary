@@ -10,6 +10,7 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 * [150 Days Of Code 2022](https://vidyabhandary.github.io/blog/2022/07/04/150DaysOfCode-2022.html)
 * [Beautiful Code](https://vidyabhandary.github.io/blog/2022/06/19/Beautiful_Code.html)
 * [My impressions - Becoming the Speaking Superstar](https://vidyabhandary.github.io/blog/publicspeaking,/communication/2022/06/06/MyImpressions.html)
+* [100 Days Of Code 2022](https://vidyabhandary.github.io/blog/2022/05/15/100DaysOfCode-2022.html)
 <!-- blog ends -->
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
@@ -22,6 +23,7 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 * [Key points of Consistent Hashing](https://github.com/vidyabhandary/til/blob/master/misc/ConsistentHashing.md)
 * [Declarative Language vs Imperative Language](https://github.com/vidyabhandary/til/blob/master/sql/DeclarativeVsImperative.md)
 * [Selecting columns](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/select_columns.md)
+* [Drop rows with no values](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/drop_na.md)
 <!-- tilentries ends -->
 More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr>
