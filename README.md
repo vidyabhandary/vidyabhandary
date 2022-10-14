@@ -19,9 +19,9 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ### TIL snippets
 <!-- tilentries starts -->
 
+* [Python Append vs Extend](https://github.com/vidyabhandary/til/blob/master/python/AppendvsExtend.md)
 * [Key points of Consistent Hashing](https://github.com/vidyabhandary/til/blob/master/misc/ConsistentHashing.md)
 * [Declarative Language vs Imperative Language](https://github.com/vidyabhandary/til/blob/master/sql/DeclarativeVsImperative.md)
-* [Selecting columns](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/select_columns.md)
 <!-- tilentries ends -->
 More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr>
