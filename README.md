@@ -7,9 +7,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 ### On my blog
 <!-- blog starts -->
+* [How Boards Work](https://vidyabhandary.github.io/blog/business,/boards/2023/02/12/HowBoardsWork.html)
 * [Business at the Speed of AI](https://vidyabhandary.github.io/blog/2023/02/05/BusinessAtTheSpeedofAI.html)
 * [150 Days Of Code 2022](https://vidyabhandary.github.io/blog/2022/07/04/150DaysOfCode-2022.html)
-* [Beautiful Code](https://vidyabhandary.github.io/blog/2022/06/19/Beautiful_Code.html)
 <!-- blog ends -->
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
