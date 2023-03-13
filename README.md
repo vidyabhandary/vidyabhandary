@@ -19,9 +19,9 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ### TIL snippets
 <!-- tilentries starts -->
 
+* [What is Postings list ?](https://github.com/vidyabhandary/til/blob/master/misc/PostingsList.md)
+* [Clustered Index and Covering Index](https://github.com/vidyabhandary/til/blob/master/misc/Indexes.md)
 * [Python Append vs Extend](https://github.com/vidyabhandary/til/blob/master/python/AppendvsExtend.md)
-* [Key points of Consistent Hashing](https://github.com/vidyabhandary/til/blob/master/misc/ConsistentHashing.md)
-* [Declarative Language vs Imperative Language](https://github.com/vidyabhandary/til/blob/master/sql/DeclarativeVsImperative.md)
 <!-- tilentries ends -->
 More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr>
