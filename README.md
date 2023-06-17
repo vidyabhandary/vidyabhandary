@@ -7,9 +7,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 ### On my blog
 <!-- blog starts -->
+* [The Composer’s Quill: Weaving Melodies using text prompts with MusicGen](https://vidyabhandary.github.io/blog/gpt,/ai,/text-to-music/prompts/2023/06/16/ComposerQuill.html)
 * [How Boards Work](https://vidyabhandary.github.io/blog/business,/boards/2023/02/12/HowBoardsWork.html)
 * [Business at the Speed of AI](https://vidyabhandary.github.io/blog/2023/02/05/BusinessAtTheSpeedofAI.html)
-* [150 Days Of Code 2022](https://vidyabhandary.github.io/blog/2022/07/04/150DaysOfCode-2022.html)
 <!-- blog ends -->
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
