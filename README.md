@@ -1,4 +1,4 @@
-###  Python Developer | Presales Engineer | Data Science Enthusiast 
+###  Solutions Engineer | Python Developer |  Technical Presales Consultant
 More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <table><tr>
