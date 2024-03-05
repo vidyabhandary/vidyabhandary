@@ -19,9 +19,9 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ### TIL snippets
 <!-- tilentries starts -->
 
+* [Homomorphic encryption](https://github.com/vidyabhandary/til/blob/master/misc/Homomorphic_encryption.md)
 * [Chapter 1 - Reliable, Scalable, and Maintainable Applications](https://github.com/vidyabhandary/til/blob/master/ddia/1_Chapter.md)
 * [Misc of Misc](https://github.com/vidyabhandary/til/blob/master/misc/Kaleidoscope.md)
-* [What is Postings list ?](https://github.com/vidyabhandary/til/blob/master/misc/PostingsList.md)
 <!-- tilentries ends -->
 More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr>
