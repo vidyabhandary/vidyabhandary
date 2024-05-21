@@ -19,7 +19,7 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ### TIL snippets
 <!-- tilentries starts -->
 
-* [LBaaS (load balancing as aservice)](https://github.com/vidyabhandary/til/blob/master/misc/LBaaS.md)
+* [LBaaS (load balancing as a service)](https://github.com/vidyabhandary/til/blob/master/misc/LBaaS.md)
 * [Key differences between MTTR, MTBF, RTO, and RPO](https://github.com/vidyabhandary/til/blob/master/misc/RTO_RPO_MTTR_MTBF.md)
 * [What is Dynamic Routing ?](https://github.com/vidyabhandary/til/blob/master/misc/Dynamic_Routing.md)
 <!-- tilentries ends -->
