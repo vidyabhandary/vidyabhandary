@@ -19,9 +19,9 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ### TIL snippets
 <!-- tilentries starts -->
 
+* [Airflow vs Luigi](https://github.com/vidyabhandary/til/blob/master/misc/AirFlowVsLuigi.md)
+* [RabbitMQ priority queue](https://github.com/vidyabhandary/til/blob/master/misc/RabbitMQ_PriorityQs.md)
 * [Partitioning Vs Sharding](https://github.com/vidyabhandary/til/blob/master/misc/PartioningVsSharding.md)
-* [LBaaS (load balancing as a service)](https://github.com/vidyabhandary/til/blob/master/misc/LBaaS.md)
-* [Key differences between MTTR, MTBF, RTO, and RPO](https://github.com/vidyabhandary/til/blob/master/misc/RTO_RPO_MTTR_MTBF.md)
 <!-- tilentries ends -->
 More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr>
