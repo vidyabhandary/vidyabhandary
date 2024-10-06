@@ -19,9 +19,9 @@ More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 ### TIL snippets
 <!-- tilentries starts -->
 
+* [Difference between API and Service](https://github.com/vidyabhandary/til/blob/master/misc/APIvsService.md)
 * [Types of UUIDs](https://github.com/vidyabhandary/til/blob/master/misc/UUIDTypes.md)
 * [Airflow vs Luigi](https://github.com/vidyabhandary/til/blob/master/misc/AirFlowVsLuigi.md)
-* [RabbitMQ priority queue](https://github.com/vidyabhandary/til/blob/master/misc/RabbitMQ_PriorityQs.md)
 <!-- tilentries ends -->
 More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
 </tr>
