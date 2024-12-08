@@ -7,9 +7,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 ### On my blog
 <!-- blog starts -->
-* [Problem with using UUIDs as Primary Key in MySQL](https://vidyabhandary.github.io/blog/uuid,/mysql/2024/10/04/UUID-Issues.html)
-* [Tokenization](https://vidyabhandary.github.io/blog/gpt,/llm/2024/05/07/Tokenization.html)
-* [Notable books read in 2023](https://vidyabhandary.github.io/blog/books,/book/review/2023/12/20/Books-2023.html)
+* [Book Review - Designing Data Intensive Applications](https://vidyabhandary.github.io/blog/computers,/technology,/bigdata/2024/12/08/Book-Review-DDIA.html)
+* [Book Review - Secret Pulse of Time](https://vidyabhandary.github.io/blog/productivity,/selfimprovement,/time/2024/12/08/Book-Review-Secret-Pulse-Of-Time.html)
+* [Book Review - Slow Productivity by Cal Newport](https://vidyabhandary.github.io/blog/productivity,/selfimprovement/2024/12/08/Book-Review-Slow-Productivity.html)
 <!-- blog ends -->
 More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
 </tr>
