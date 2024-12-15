@@ -1,4 +1,4 @@
-###  Solutions Engineer | Python Developer |  Technical Presales Consultant
+###  Solution Architect | Python Developer |  Presales Consultant | Business Analyst | Avid Technologist
 More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <table><tr>
