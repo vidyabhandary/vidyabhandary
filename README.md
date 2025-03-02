@@ -1,4 +1,5 @@
-###  Solution Architect | Python Developer |  Presales Consultant | Business Analyst | Avid Technologist
+### Solution Consultant | Python Developer | Presales Specialist | Cloud Architect | Avid Technologist
+
 More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <table><tr>
@@ -6,34 +7,37 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ---
 
 ### On my blog
+
 <!-- blog starts -->
-* [Book Review - Designing Data Intensive Applications](https://vidyabhandary.github.io/blog/computers,/technology,/bigdata/2024/12/08/Book-Review-DDIA.html)
-* [Book Review - Secret Pulse of Time](https://vidyabhandary.github.io/blog/productivity,/selfimprovement,/time/2024/12/08/Book-Review-Secret-Pulse-Of-Time.html)
-* [Book Review - Slow Productivity by Cal Newport](https://vidyabhandary.github.io/blog/productivity,/selfimprovement/2024/12/08/Book-Review-Slow-Productivity.html)
-<!-- blog ends -->
-More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
-</tr>
+
+- [Book Review - Designing Data Intensive Applications](https://vidyabhandary.github.io/blog/computers,/technology,/bigdata/2024/12/08/Book-Review-DDIA.html)
+- [Book Review - Secret Pulse of Time](https://vidyabhandary.github.io/blog/productivity,/selfimprovement,/time/2024/12/08/Book-Review-Secret-Pulse-Of-Time.html)
+- [Book Review - Slow Productivity by Cal Newport](https://vidyabhandary.github.io/blog/productivity,/selfimprovement/2024/12/08/Book-Review-Slow-Productivity.html)
+  <!-- blog ends -->
+  More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
+  </tr>
 
 <tr>
 
 ### TIL snippets
+
 <!-- tilentries starts -->
 
-* [Difference between API and Service](https://github.com/vidyabhandary/til/blob/master/misc/APIvsService.md)
-* [Types of UUIDs](https://github.com/vidyabhandary/til/blob/master/misc/UUIDTypes.md)
-* [Airflow vs Luigi](https://github.com/vidyabhandary/til/blob/master/misc/AirFlowVsLuigi.md)
-<!-- tilentries ends -->
-More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
-</tr>
+- [Difference between API and Service](https://github.com/vidyabhandary/til/blob/master/misc/APIvsService.md)
+- [Types of UUIDs](https://github.com/vidyabhandary/til/blob/master/misc/UUIDTypes.md)
+- [Airflow vs Luigi](https://github.com/vidyabhandary/til/blob/master/misc/AirFlowVsLuigi.md)
+  <!-- tilentries ends -->
+  More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
+  </tr>
 
 </table>
 
 ---
 
 <a href="https://vidyabhandary.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html">How this works</a>
-<a href="https://github.com/vidyabhandary/vidyabhandary/actions"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> 
+<a href="https://github.com/vidyabhandary/vidyabhandary/actions"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
-<a href="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
+<a href="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits" align="right" alt="Visits"></a>
 
 <p></br></p>
 <p align="center">
@@ -41,8 +45,7 @@ More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   <a href="https://vidyabhandary.medium.com" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="vidyabhandary" /></a> 
   <a href="https://kaggle.com/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="vidyabhandary"/></a> 
   <a href="https://dev.to/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="vidyabhandary"/></a>
-</p>  
-
+</p>
 
 <!-- ### Hi there 👋 --->
 <!--
