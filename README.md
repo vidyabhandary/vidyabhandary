@@ -1,4 +1,4 @@
-### Solution Consultant | Python Developer | Presales Specialist | Cloud Architect | Avid Technologist
+### Solutions Consultant | Python Developer | Presales Specialist | Cloud Architect | Avid Technologist
 
 More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
