@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [CloudFront Functions vs. Lambda@Edge: When to Use Which?](https://github.com/vidyabhandary/til/blob/master/aws/CloudFrontVsLambda@Edge.md)
 * [Difference between API and Service](https://github.com/vidyabhandary/til/blob/master/misc/APIvsService.md)
 * [Types of UUIDs](https://github.com/vidyabhandary/til/blob/master/misc/UUIDTypes.md)
-* [Airflow vs Luigi](https://github.com/vidyabhandary/til/blob/master/misc/AirFlowVsLuigi.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
     </tr>
