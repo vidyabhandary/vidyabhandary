@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [Origin Response vs. Viewer Response](https://github.com/vidyabhandary/til/blob/master/aws/OriginRespVsViewerResp.md)
 * [AWS EKS vs EKS Anywhere Comparison Table](https://github.com/vidyabhandary/til/blob/master/aws/EKSAnyVsEKS.md)
 * [AWS RAM](https://github.com/vidyabhandary/til/blob/master/aws/AWS_RAM.md)
-* [What is AWS SAM?](https://github.com/vidyabhandary/til/blob/master/aws/SAM.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
     </tr>
