@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [EC2 Instance Savings Plans vs Compute Savings Plans](https://github.com/vidyabhandary/til/blob/master/aws/ECSInstanceVsComputeSavings.md)
 * [Origin Response vs. Viewer Response](https://github.com/vidyabhandary/til/blob/master/aws/OriginRespVsViewerResp.md)
 * [AWS EKS vs EKS Anywhere Comparison Table](https://github.com/vidyabhandary/til/blob/master/aws/EKSAnyVsEKS.md)
-* [AWS RAM](https://github.com/vidyabhandary/til/blob/master/aws/AWS_RAM.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
     </tr>
