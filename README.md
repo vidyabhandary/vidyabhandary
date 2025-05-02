@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [Mandatory and strongly recommended controls](https://github.com/vidyabhandary/til/blob/master/aws/MandatoryVsStronglyRecoCtrls.md)
+* [AWS Control Tower guardrails](https://github.com/vidyabhandary/til/blob/master/aws/TypesOfGuardRails.md)
 * [EC2 Instance Savings Plans vs Compute Savings Plans](https://github.com/vidyabhandary/til/blob/master/aws/ECSInstanceVsComputeSavings.md)
-* [Origin Response vs. Viewer Response](https://github.com/vidyabhandary/til/blob/master/aws/OriginRespVsViewerResp.md)
-* [AWS EKS vs EKS Anywhere Comparison Table](https://github.com/vidyabhandary/til/blob/master/aws/EKSAnyVsEKS.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
     </tr>
