@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
-* [Mandatory and strongly recommended controls](https://github.com/vidyabhandary/til/blob/master/aws/MandatoryVsStronglyRecoCtrls.md)
-* [AWS Control Tower guardrails](https://github.com/vidyabhandary/til/blob/master/aws/TypesOfGuardRails.md)
-* [EC2 Instance Savings Plans vs Compute Savings Plans](https://github.com/vidyabhandary/til/blob/master/aws/ECSInstanceVsComputeSavings.md)
+* [Key differences between the VPC attributes `enableDnsSupport` and `enableDnsHostnames`:](https://github.com/vidyabhandary/til/blob/master/aws/VPC_DNSAttributes.md)
+* [VAEs - Variational Autoencoders](https://github.com/vidyabhandary/til/blob/master/ai/VAE.md)
+* [Beta-VAE / CVAE](https://github.com/vidyabhandary/til/blob/master/ai/Beta_VAE_CVAE.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
     </tr>
