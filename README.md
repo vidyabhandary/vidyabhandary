@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
-* [Key differences between the VPC attributes `enableDnsSupport` and `enableDnsHostnames`:](https://github.com/vidyabhandary/til/blob/master/aws/VPC_DNSAttributes.md)
+* [S3 Gateway Endpoints and S3 Interface Endpoints](https://github.com/vidyabhandary/til/blob/master/aws/S3_Gateway_Interface_EndPoint.md)
+* [Key differences between the VPC attributes `enableDnsSupport` and `enableDnsHostnames](https://github.com/vidyabhandary/til/blob/master/aws/VPC_DNSAttributes.md)
 * [VAEs - Variational Autoencoders](https://github.com/vidyabhandary/til/blob/master/ai/VAE.md)
-* [Beta-VAE / CVAE](https://github.com/vidyabhandary/til/blob/master/ai/Beta_VAE_CVAE.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
     </tr>
