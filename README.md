@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [Comparison of **CNAME** vs **NS** DNS records:](https://github.com/vidyabhandary/til/blob/master/aws/NS_CNAME.md)
+* [Comparison of **NS**, **A**, and **AAAA** DNS records:](https://github.com/vidyabhandary/til/blob/master/aws/NS_A_AAAA.md)
 * [API Gateway Resource vs. Usage Plans](https://github.com/vidyabhandary/til/blob/master/aws/ResourcePolicyVsUsagePolicy.md)
-* [S3 Gateway Endpoints and S3 Interface Endpoints](https://github.com/vidyabhandary/til/blob/master/aws/S3_Gateway_Interface_EndPoint.md)
-* [Key differences between the VPC attributes `enableDnsSupport` and `enableDnsHostnames`](https://github.com/vidyabhandary/til/blob/master/aws/VPC_DNSAttributes.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
     </tr>
