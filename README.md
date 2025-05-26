@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [Key responsibilities of **AWS Systems Manager**:](https://github.com/vidyabhandary/til/blob/master/aws/AWS_SystemMgr.md)
 * [Comparison of **CNAME** vs **NS** DNS records:](https://github.com/vidyabhandary/til/blob/master/aws/NS_CNAME.md)
 * [Comparison of **NS**, **A**, and **AAAA** DNS records:](https://github.com/vidyabhandary/til/blob/master/aws/NS_A_AAAA.md)
-* [API Gateway Resource vs. Usage Plans](https://github.com/vidyabhandary/til/blob/master/aws/ResourcePolicyVsUsagePolicy.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
     </tr>
