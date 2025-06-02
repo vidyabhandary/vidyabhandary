@@ -1,4 +1,4 @@
-### Solutions Consultant | Python Developer | Presales Specialist | Cloud Architect | Avid Technologist
+### Solutions Consultant | Cloud Architect | Presales Specialist | RFXs | Certified (AWS/GCP/Azure)
 
 More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
@@ -9,12 +9,13 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
-* [Book Review - Designing Data Intensive Applications](https://vidyabhandary.github.io/blog/computers,/technology,/bigdata/2024/12/08/Book-Review-DDIA.html)
-* [Book Review - Secret Pulse of Time](https://vidyabhandary.github.io/blog/productivity,/selfimprovement,/time/2024/12/08/Book-Review-Secret-Pulse-Of-Time.html)
-* [Book Review - Slow Productivity by Cal Newport](https://vidyabhandary.github.io/blog/productivity,/selfimprovement/2024/12/08/Book-Review-Slow-Productivity.html)
-<!-- blog ends -->
+
+- [Book Review - Designing Data Intensive Applications](https://vidyabhandary.github.io/blog/computers,/technology,/bigdata/2024/12/08/Book-Review-DDIA.html)
+- [Book Review - Secret Pulse of Time](https://vidyabhandary.github.io/blog/productivity,/selfimprovement,/time/2024/12/08/Book-Review-Secret-Pulse-Of-Time.html)
+- [Book Review - Slow Productivity by Cal Newport](https://vidyabhandary.github.io/blog/productivity,/selfimprovement/2024/12/08/Book-Review-Slow-Productivity.html)
+  <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
-    </tr>
+  </tr>
 
 <tr>
 
@@ -22,12 +23,12 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
-* [Key responsibilities of **AWS Systems Manager**:](https://github.com/vidyabhandary/til/blob/master/aws/AWS_SystemMgr.md)
-* [Comparison of **CNAME** vs **NS** DNS records:](https://github.com/vidyabhandary/til/blob/master/aws/NS_CNAME.md)
-* [Comparison of **NS**, **A**, and **AAAA** DNS records:](https://github.com/vidyabhandary/til/blob/master/aws/NS_A_AAAA.md)
-<!-- tilentries ends -->
+- [Key responsibilities of **AWS Systems Manager**:](https://github.com/vidyabhandary/til/blob/master/aws/AWS_SystemMgr.md)
+- [Comparison of **CNAME** vs **NS** DNS records:](https://github.com/vidyabhandary/til/blob/master/aws/NS_CNAME.md)
+- [Comparison of **NS**, **A**, and **AAAA** DNS records:](https://github.com/vidyabhandary/til/blob/master/aws/NS_A_AAAA.md)
+  <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
-    </tr>
+  </tr>
 
 </table>
 
