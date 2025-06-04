@@ -22,7 +22,7 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
-* [**Dialogue Intelligibility Metric**](https://github.com/vidyabhandary/til/blob/master/tech_reads/Netflix's Dialogue Intelligibility Metric.md)
+* [Dialogue Intelligibility Metric](https://github.com/vidyabhandary/til/blob/master/tech_reads/Dialogue Intelligibility Metric.md)
 * [Key responsibilities of **AWS Systems Manager**:](https://github.com/vidyabhandary/til/blob/master/aws/AWS_SystemMgr.md)
 * [Comparison of **CNAME** vs **NS** DNS records:](https://github.com/vidyabhandary/til/blob/master/aws/NS_CNAME.md)
 <!-- tilentries ends -->
