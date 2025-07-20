@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
-* [𝗚𝗮𝗺𝗲𝘀 𝗟𝗟𝗠𝘀 𝗽𝗹𝗮𝘆 !!!](https://vidyabhandary.github.io/blog/gametheory,/llm/2025/07/10/Games-LLMs-Play.html)
-* [Book Review - Designing Data Intensive Applications](https://vidyabhandary.github.io/blog/computers,/technology,/bigdata/2024/12/08/Book-Review-DDIA.html)
-* [Book Review - Secret Pulse of Time](https://vidyabhandary.github.io/blog/productivity,/selfimprovement,/time/2024/12/08/Book-Review-Secret-Pulse-Of-Time.html)
+* [AI Hype vs Reality: A Nuanced Look at AI in Engineering](https://vidyabhandary.github.io/blog/gartner,/ai,/engineering/2025/07/19/AIHypevsReality.html)
+* [A rare alignment of gaps](https://vidyabhandary.github.io/blog/sre,/outage,/google/2025/07/19/AlignmentofGaps.html)
+* [AlphaGo Zero meets House M.D.](https://vidyabhandary.github.io/blog/alphagozero,/seal/2025/07/19/AlphaZeroMeedsHouseMD.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
