@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
-* [AI Hype vs Reality: A Nuanced Look at AI in Engineering](https://vidyabhandary.github.io/blog/gartner,/ai,/engineering/2025/07/19/AIHypevsReality.html)
-* [A rare alignment of gaps](https://vidyabhandary.github.io/blog/sre,/outage,/google/2025/07/19/AlignmentofGaps.html)
-* [AlphaGo Zero meets House M.D.](https://vidyabhandary.github.io/blog/alphagozero,/seal/2025/07/19/AlphaZeroMeedsHouseMD.html)
+* [Agents are cool but dont deep dive first](https://vidyabhandary.github.io/blog/generativeai,/agenticai/2025/07/20/AgentsDoNotJumpDeepEndFirst.html)
+* [Model Collapse](https://vidyabhandary.github.io/blog/generativeai,/models/2025/07/20/ModelCollapse.html)
+* [Volume Gymnastics](https://vidyabhandary.github.io/blog/generativeai,/techinnovation/2025/07/20/VolumeGymnastics.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
