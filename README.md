@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [Binary vector embeddings](https://vidyabhandary.github.io/blog/generativeai,/techinnovation/2025/07/21/BinaryEmbeddings.html)
 * [Agents are cool but dont deep dive first](https://vidyabhandary.github.io/blog/generativeai,/agenticai/2025/07/20/AgentsDoNotJumpDeepEndFirst.html)
 * [Model Collapse](https://vidyabhandary.github.io/blog/generativeai,/models/2025/07/20/ModelCollapse.html)
-* [Volume Gymnastics](https://vidyabhandary.github.io/blog/generativeai,/techinnovation/2025/07/20/VolumeGymnastics.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
