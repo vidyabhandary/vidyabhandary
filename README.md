@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [Vibe Coding](https://vidyabhandary.github.io/blog/neuralnetworks,/models,/generativeai/2025/07/23/VibeCoding.html)
 * [LLM Architecture and Training](https://vidyabhandary.github.io/blog/llm,/generativeai/2025/07/22/LLMTraningAndArchitecture.html)
 * [Back To Basics - WebSockets or Long Polling](https://vidyabhandary.github.io/blog/realtimesockets,/techinnovation/2025/07/22/WebSocketsOrLongPolling.html)
-* [Binary vector embeddings](https://vidyabhandary.github.io/blog/generativeai,/techinnovation/2025/07/21/BinaryEmbeddings.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
