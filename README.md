@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [MCP - Mpdel Context Protocol](https://vidyabhandary.github.io/blog/mcp,/models,/generativeai/2025/07/24/MCP.html)
 * [Vibe Coding](https://vidyabhandary.github.io/blog/neuralnetworks,/models,/generativeai/2025/07/23/VibeCoding.html)
 * [LLM Architecture and Training](https://vidyabhandary.github.io/blog/llm,/generativeai/2025/07/22/LLMTraningAndArchitecture.html)
-* [Back To Basics - WebSockets or Long Polling](https://vidyabhandary.github.io/blog/realtimesockets,/techinnovation/2025/07/22/WebSocketsOrLongPolling.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
