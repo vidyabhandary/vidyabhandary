@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
-* [MCP - Mpdel Context Protocol](https://vidyabhandary.github.io/blog/mcp,/models,/generativeai/2025/07/24/MCP.html)
+* [The Surprise Vector](https://vidyabhandary.github.io/blog/neuralnetworks,/models,/generativeai/2025/07/25/SurpriseVector.html)
+* [MCP - Model Context Protocol](https://vidyabhandary.github.io/blog/mcp,/models,/generativeai/2025/07/24/MCP.html)
 * [Vibe Coding](https://vidyabhandary.github.io/blog/neuralnetworks,/models,/generativeai/2025/07/23/VibeCoding.html)
-* [LLM Architecture and Training](https://vidyabhandary.github.io/blog/llm,/generativeai/2025/07/22/LLMTraningAndArchitecture.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
