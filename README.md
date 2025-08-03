@@ -1,4 +1,4 @@
-### Architect | Cloud Solution Consultant | Presales Specialist | RFXs | Certified (AWS/GCP/Azure)
+### Technical Architect | Cloud Solutions Consultant | Presales Specialist | RFXs | Certified (AWS/GCP/Azure)
 
 More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
