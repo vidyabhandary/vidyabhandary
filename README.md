@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [DeepMind’s AlphaEvolve Is Redefining Innovation](https://vidyabhandary.github.io/blog/deepmind,/models,/generativeai/2025/08/06/AlphaEvolve.html)
 * [Vibe Coding your way into dropping the production database !!!](https://vidyabhandary.github.io/blog/neuralnetworks,/models,/generativeai/2025/07/27/VibeCodingProdDBDrop.html)
 * [The Surprise Vector](https://vidyabhandary.github.io/blog/neuralnetworks,/models,/generativeai/2025/07/25/SurpriseVector.html)
-* [MCP - Model Context Protocol](https://vidyabhandary.github.io/blog/mcp,/models,/generativeai/2025/07/24/MCP.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
