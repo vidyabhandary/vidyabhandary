@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [Bandit Algorithms](https://vidyabhandary.github.io/blog/business,/algorithms,/generativeai/2025/08/19/BanditAlgorithm.html)
 * [Compression culture](https://vidyabhandary.github.io/blog/summary,/models,/generativeai/2025/08/11/CompressionCulture.html)
 * [DeepMind’s AlphaEvolve Is Redefining Innovation](https://vidyabhandary.github.io/blog/deepmind,/models,/generativeai/2025/08/06/AlphaEvolve.html)
-* [Vibe Coding your way into dropping the production database !!!](https://vidyabhandary.github.io/blog/neuralnetworks,/models,/generativeai/2025/07/27/VibeCodingProdDBDrop.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
