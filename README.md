@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [Bits to Boardrooms](https://vidyabhandary.github.io/blog/agenticai,/politics,/generativeai/2025/09/06/BitsToBoardRooms.html)
 * [ML Learning and Observability in Payments](https://vidyabhandary.github.io/blog/business,/observability,/generativeai/2025/08/25/MLObservability.html)
 * [Bandit Algorithms](https://vidyabhandary.github.io/blog/business,/algorithms,/generativeai/2025/08/19/BanditAlgorithm.html)
-* [Compression culture](https://vidyabhandary.github.io/blog/summary,/models,/generativeai/2025/08/11/CompressionCulture.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
