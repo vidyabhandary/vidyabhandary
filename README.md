@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [Checklist Manifesto for AI Training](https://vidyabhandary.github.io/blog/agenticai,/checklists,/generativeai/2025/10/01/ChecklistManifesto.html)
 * [Your CEO is on the line; But its not them](https://vidyabhandary.github.io/blog/agenticai,/security,/generativeai/2025/09/13/SocialEngineer2.html)
 * [Bits to Boardrooms](https://vidyabhandary.github.io/blog/agenticai,/politics,/generativeai/2025/09/06/BitsToBoardRooms.html)
-* [ML Learning and Observability in Payments](https://vidyabhandary.github.io/blog/business,/observability,/generativeai/2025/08/25/MLObservability.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
