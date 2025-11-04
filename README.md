@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [From Bytes to Remote Control Execution](https://vidyabhandary.github.io/blog/cybersecurity,/devsecops,/zerotrust/2025/11/03/FromBytesToRemoteControlExecution.html)
+* [How To Train Your Baby Dragon Hatchling](https://vidyabhandary.github.io/blog/llms,/ai,/explanableai/2025/11/03/HowToTrainYourBabyDragonHatchling.html)
 * [From Forensics to Pre-Flight Checks](https://vidyabhandary.github.io/blog/agenticai,/safety,/generativeai/2025/10/09/SafetyToolBench.html)
-* [Checklist Manifesto for AI Training](https://vidyabhandary.github.io/blog/agenticai,/checklists,/generativeai/2025/10/01/ChecklistManifesto.html)
-* [Your CEO is on the line; But its not them](https://vidyabhandary.github.io/blog/agenticai,/security,/generativeai/2025/09/13/SocialEngineer2.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
