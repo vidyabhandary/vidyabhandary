@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [Kindling the spark of creativity in LLMs via probabilities](https://vidyabhandary.github.io/blog/llms,/ai,/communication,/creativity,/promptengineering/2025/11/13/VerbalizedSampling.html)
 * [From Bytes to Remote Control Execution](https://vidyabhandary.github.io/blog/cybersecurity,/devsecops,/zerotrust/2025/11/03/FromBytesToRemoteControlExecution.html)
 * [How To Train Your Baby Dragon Hatchling](https://vidyabhandary.github.io/blog/llms,/ai,/explanableai/2025/11/03/HowToTrainYourBabyDragonHatchling.html)
-* [From Forensics to Pre-Flight Checks](https://vidyabhandary.github.io/blog/agenticai,/safety,/generativeai/2025/10/09/SafetyToolBench.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
