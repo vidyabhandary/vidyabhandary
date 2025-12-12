@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [Google’s Nested Learning](https://vidyabhandary.github.io/blog/llms,/ai,/nestedlearning,/research,/agenticai/2025/12/11/GoogleNested.html)
 * [Team Communication Lessons for AI Agents?](https://vidyabhandary.github.io/blog/llms,/ai,/communication,/agenticai/2025/11/20/TeamCommunicationLessonsAIAgents.html)
 * [Kindling the spark of creativity in LLMs via probabilities](https://vidyabhandary.github.io/blog/llms,/ai,/communication,/creativity,/promptengineering/2025/11/13/VerbalizedSampling.html)
-* [From Bytes to Remote Control Execution](https://vidyabhandary.github.io/blog/cybersecurity,/devsecops,/zerotrust/2025/11/03/FromBytesToRemoteControlExecution.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
