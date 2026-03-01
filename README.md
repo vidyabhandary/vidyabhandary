@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [Agentic Context Engineering](https://vidyabhandary.github.io/blog/llms,/ai,/selfimprovement,/agenticai/2026/02/28/ACE.html)
 * [Seduced by a Stanza](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/safety/2026/02/13/SeducedByAStanza.html)
 * [Google’s Nested Learning](https://vidyabhandary.github.io/blog/llms,/ai,/nestedlearning,/research,/agenticai/2025/12/11/GoogleNested.html)
-* [Team Communication Lessons for AI Agents?](https://vidyabhandary.github.io/blog/llms,/ai,/communication,/agenticai/2025/11/20/TeamCommunicationLessonsAIAgents.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
