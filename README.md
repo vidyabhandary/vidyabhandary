@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [Your AI Model Can Tell When It’s Being Manipulated](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/03/13/PIShield.html)
 * [Agentic Context Engineering](https://vidyabhandary.github.io/blog/llms,/ai,/selfimprovement,/agenticai/2026/02/28/ACE.html)
 * [Seduced by a Stanza](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/safety/2026/02/13/SeducedByAStanza.html)
-* [Google’s Nested Learning](https://vidyabhandary.github.io/blog/llms,/ai,/nestedlearning,/research,/agenticai/2025/12/11/GoogleNested.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
