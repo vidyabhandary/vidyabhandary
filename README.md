@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [Semantic vs Syntactic](https://github.com/vidyabhandary/til/blob/master/tech_reads/SemanticVsSyntactcic.md)
 * [Dialogue Intelligibility Metric](https://github.com/vidyabhandary/til/blob/master/tech_reads/Dialogue_Intelligibility_Metric.md)
 * [Key responsibilities of **AWS Systems Manager**:](https://github.com/vidyabhandary/til/blob/master/aws/AWS_SystemMgr.md)
-* [Comparison of **CNAME** vs **NS** DNS records:](https://github.com/vidyabhandary/til/blob/master/aws/NS_CNAME.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
