@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [Claude Code Unpacked!](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai,/harnessengineering/2026/04/02/ClaudeCodeUnpacked.html)
 * [Trust Me Bro - AI Pysch !](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/03/27/SCOUT_TrustMeBro.html)
 * [Your AI Model Can Tell When It’s Being Manipulated](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/03/13/PIShield.html)
-* [Agentic Context Engineering](https://vidyabhandary.github.io/blog/llms,/ai,/selfimprovement,/agenticai/2026/02/28/ACE.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
