@@ -10,8 +10,8 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- blog starts -->
 * [When Harm becomes natural choice for AI](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/04/17/AIHarmRationalChoice.html)
+* [Linguistic Sleight](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/04/17/LinguisticSleight.html)
 * [Claude Code Unpacked!](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai,/harnessengineering/2026/04/02/ClaudeCodeUnpacked.html)
-* [Trust Me Bro - AI Pysch !](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/03/27/SCOUT_TrustMeBro.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
