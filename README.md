@@ -1,67 +1,77 @@
-### Technical Architect | Cloud Solutions Consultant | Presales Specialist | RFXs | Certified (AWS/GCP/Azure)
 
-More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
+# Hi, I'm Aral Roca
 
-<table><tr>
+<div align="right">
+  <a href="https://aralroca.com/donate">
+    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
+  </a>
+</div>
 
----
-
-### On my blog
-
-<!-- blog starts -->
-* [Linguistic Sleight](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/04/24/LinguisticSleight.html)
-* [When Harm becomes natural choice for AI](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/04/17/AIHarmRationalChoice.html)
-* [Claude Code Unpacked!](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai,/harnessengineering/2026/04/02/ClaudeCodeUnpacked.html)
-<!-- blog ends -->
-  More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
-  </tr>
-
-<tr>
-
-### TIL snippets
-
-<!-- tilentries starts -->
-
-* [Semantic vs Syntactic](https://github.com/vidyabhandary/til/blob/master/tech_reads/SemanticVsSyntactcic.md)
-* [Dialogue Intelligibility Metric](https://github.com/vidyabhandary/til/blob/master/tech_reads/Dialogue_Intelligibility_Metric.md)
-* [Key responsibilities of **AWS Systems Manager**:](https://github.com/vidyabhandary/til/blob/master/aws/AWS_SystemMgr.md)
-<!-- tilentries ends -->
-  More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
-  </tr>
-
-</table>
-
----
-
-<a href="https://vidyabhandary.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html">How this works</a>
-<a href="https://github.com/vidyabhandary/vidyabhandary/actions"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
-
-<a href="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits" align="right" alt="Visits"></a>
-
-<p></br></p>
 <p align="center">
-  <a href="https://in.linkedin.com/in/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a> 
-  <a href="https://vidyabhandary.medium.com" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="vidyabhandary" /></a> 
-  <a href="https://kaggle.com/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="vidyabhandary"/></a> 
-  <a href="https://dev.to/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="vidyabhandary"/></a>
+  <a href="https://aralroca.com">
+    <img width="100" src="https://github.com/aralroca/aralroca.com/blob/master/src/public/images/logo.svg" alt="logo" />
+  </a>
 </p>
 
-<!-- ### Hi there 👋 --->
-<!--
-<a href="https://in.linkedin.com/in/vidyabhandary"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
--->
-<!--
-**vidyabhandary/vidyabhandary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
-Here are some ideas to get you started:
+<p align="center" style="margin: -20px 0 30px">
+   <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/4467741/aral-roca" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aral-roca-gomez-3b536bb1/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact@aralroca.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others. 
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <br />
+  <br />
+</div>
+
+A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
+
+<br />
+
+#### 📖 &nbsp;&nbsp;[aralroca.com](https://aralroca.com): Last 5 articles
+ 
+* [HTML Streaming Over the Wire 🥳: A Deep Dive](https://aralroca.com/blog/html-streaming-over-the-wire) 
+* [SPA-Like Navigation Preserving Web Component State](https://aralroca.com/blog/spa-navigation) 
+* [Power of Partial Prerendering with Bun](https://aralroca.com/blog/partial-prerendering) 
+* [HTML Streaming and DOM Diffing Algorithm](https://aralroca.com/blog/html-node-streaming) 
+* [👋 Say Goodbye to Spread Operator: Use Default Composer](https://aralroca.com/blog/default-composer)
+
+<br />
+
+#### 🧡 &nbsp;&nbsp;My passions
+
+* Technology and software
+* Science 
+* Machine learning ([my articles about it](https://aralroca.com/blog?q=machine-learning))
+* Books ([goodreads](https://www.goodreads.com/user/show/32447157-aral-roca-gomez))
+* Parkour ([instagram](https://www.instagram.com/aralroca/), [youtube](http://youtube.com/aralroca))
+* Nutrition
+* Nature
+
+<br />
+<a href="https://aralroca.us8.list-manage.com/subscribe/post?u=29d99171aa3f671bde658475a&id=9f1a0b31e3">
+  <table align="right">
+      <tr>
+          <td>
+            👉 &nbsp;&nbsp;Subscribe to the newsletter
+          </td>
+      </tr>
+  </table>
+</a>
