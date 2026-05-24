@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [LockPicking - The AI Version](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/05/23/LockPickingHearingTumblers.html)
 * [Linguistic Sleight](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/04/24/LinguisticSleight.html)
 * [When Harm becomes natural choice for AI](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/04/17/AIHarmRationalChoice.html)
-* [Claude Code Unpacked!](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai,/harnessengineering/2026/04/02/ClaudeCodeUnpacked.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
