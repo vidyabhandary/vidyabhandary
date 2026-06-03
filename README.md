@@ -1,4 +1,4 @@
-### AI & Cloud Solutions Architect | Technical Presales Consultant | RFXs | AWS Solutions Architect - Professional
+### AI & Cloud Solutions Architect | Technical Presales | RFXs | AWS Solutions Architect - Professional
 
 More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
