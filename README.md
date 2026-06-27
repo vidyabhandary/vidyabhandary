@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [Agents of Chaos](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/06/26/AgentsOfChaos.html)
 * [LLM-Wiki](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/06/12/LLM-Wiki.html)
 * [SD-RAG](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/05/29/SDRAG.html)
-* [LockPicking - The AI Version](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/05/23/LockPickingHearingTumblers.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
