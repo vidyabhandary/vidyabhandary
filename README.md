@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [Language Model Teams as Distributed Systems](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai/2026/07/23/DistributedLLMs.html)
 * [Agents of Chaos](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/06/26/AgentsOfChaos.html)
 * [LLM-Wiki](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/06/12/LLM-Wiki.html)
-* [SD-RAG](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/05/29/SDRAG.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
