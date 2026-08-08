@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [MCP Boundary Decisions](https://github.com/vidyabhandary/til/blob/master/genai/MCPBoundaryDecisions.md)
 * [Reranking in RAG](https://github.com/vidyabhandary/til/blob/master/genai/RerankingRag.md)
 * [MCP Least Privilege](https://github.com/vidyabhandary/til/blob/master/genai/MCPLeastPrivilege.md)
-* [Chunking in RAG](https://github.com/vidyabhandary/til/blob/master/genai/ChunkingInRAG.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
