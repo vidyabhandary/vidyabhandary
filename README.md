@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
-* [Hybrid Search — Keywords + Meaning](https://github.com/vidyabhandary/til/blob/master/genai/Hybrid Search.md)
+* [Durable Execution](https://github.com/vidyabhandary/til/blob/master/genai/DurableExecution.md)
+* [Hybrid Search](https://github.com/vidyabhandary/til/blob/master/genai/HybridSearch.md)
 * [MCP Boundary Decisions](https://github.com/vidyabhandary/til/blob/master/genai/MCPBoundaryDecisions.md)
-* [Reranking in RAG](https://github.com/vidyabhandary/til/blob/master/genai/RerankingRag.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
