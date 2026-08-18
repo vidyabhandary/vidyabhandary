@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [Prompt Caching](https://github.com/vidyabhandary/til/blob/master/genai/PromptCaching.md)
 * [MCP](https://github.com/vidyabhandary/til/blob/master/genai/MCP.md)
 * [Durable Execution](https://github.com/vidyabhandary/til/blob/master/genai/DurableExecution.md)
-* [Hybrid Search](https://github.com/vidyabhandary/til/blob/master/genai/HybridSearch.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
