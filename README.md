@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [Batch Inference](https://github.com/vidyabhandary/til/blob/master/genai/Batching.md)
 * [Model Routing](https://github.com/vidyabhandary/til/blob/master/genai/ModelRouting.md)
 * [Agent Memory](https://github.com/vidyabhandary/til/blob/master/genai/AgentMemory.md)
-* [Prompt Caching](https://github.com/vidyabhandary/til/blob/master/genai/PromptCaching.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
