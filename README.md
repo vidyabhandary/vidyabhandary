@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
-* [Semantic Caching](https://github.com/vidyabhandary/til/blob/master/genai/SemanticCaching.md)
-* [Batch Inference](https://github.com/vidyabhandary/til/blob/master/genai/Batching.md)
-* [Model Routing](https://github.com/vidyabhandary/til/blob/master/genai/ModelRouting.md)
+* [LoRA](https://github.com/vidyabhandary/til/blob/master/genai/Lora.md)
+* [Query Decomposition](https://github.com/vidyabhandary/til/blob/master/genai/QueryDecomposition.md)
+* [Multi-index retrieval](https://github.com/vidyabhandary/til/blob/master/genai/MultiIndexRetrieval.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
