@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [HyDE](https://github.com/vidyabhandary/til/blob/master/genai/HyDE.md)
 * [LoRA](https://github.com/vidyabhandary/til/blob/master/genai/Lora.md)
 * [Query Decomposition](https://github.com/vidyabhandary/til/blob/master/genai/QueryDecomposition.md)
-* [Multi-index retrieval](https://github.com/vidyabhandary/til/blob/master/genai/MultiIndexRetrieval.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
