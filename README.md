@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [Open AI Hugging Face Report](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai,/security/2026/09/01/OpenAIHuggingFaceReport.html)
 * [HandOff Tax](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai/2026/08/29/HandOffTax.html)
 * [Trajectory Assurance](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai,/security/2026/08/15/TrajectoryAssurance.html)
-* [Language Model Teams as Distributed Systems](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai/2026/07/23/DistributedLLMs.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [Generative AI Nugget: **LLM Observability — Trace the AI Workflow, Not Just the API Call**](https://github.com/vidyabhandary/til/blob/master/genai/LLMObservability.md)
 * [Late Chunking](https://github.com/vidyabhandary/til/blob/master/genai/LateChunking.md)
 * [HyDE](https://github.com/vidyabhandary/til/blob/master/genai/HyDE.md)
-* [LoRA](https://github.com/vidyabhandary/til/blob/master/genai/Lora.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
