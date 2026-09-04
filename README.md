@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [GraphRAG](https://github.com/vidyabhandary/til/blob/master/genai/GraphRAG.md)
 * [LLM Observability](https://github.com/vidyabhandary/til/blob/master/genai/LLMObservability.md)
 * [Late Chunking](https://github.com/vidyabhandary/til/blob/master/genai/LateChunking.md)
-* [HyDE](https://github.com/vidyabhandary/til/blob/master/genai/HyDE.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
