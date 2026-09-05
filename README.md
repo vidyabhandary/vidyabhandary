@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [Adaptive Reasoning](https://github.com/vidyabhandary/til/blob/master/genai/AdaptiveReasoning.md)
 * [GraphRAG](https://github.com/vidyabhandary/til/blob/master/genai/GraphRAG.md)
 * [LLM Observability](https://github.com/vidyabhandary/til/blob/master/genai/LLMObservability.md)
-* [Late Chunking](https://github.com/vidyabhandary/til/blob/master/genai/LateChunking.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
