@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
+* [Ads in AI Chatbots](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai,/governance,/responsibleai,/ethics/2026/09/05/AdsInChatbots.html)
 * [Open AI Hugging Face Report](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai,/security/2026/09/01/OpenAIHuggingFaceReport.html)
 * [HandOff Tax](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai/2026/08/29/HandOffTax.html)
-* [Trajectory Assurance](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai,/security/2026/08/15/TrajectoryAssurance.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
