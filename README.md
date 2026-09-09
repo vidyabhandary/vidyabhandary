@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [Structured Outputs](https://github.com/vidyabhandary/til/blob/master/genai/StructuredOutput.md)
 * [Parent–Child Retrieval](https://github.com/vidyabhandary/til/blob/master/genai/ParentChildRetrivalRAG.md)
 * [Adaptive Reasoning](https://github.com/vidyabhandary/til/blob/master/genai/AdaptiveReasoning.md)
-* [GraphRAG](https://github.com/vidyabhandary/til/blob/master/genai/GraphRAG.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
