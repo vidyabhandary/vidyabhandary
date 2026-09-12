@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
-* [SD-RAG](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/05/29/SDRAG.html)
-* [LockPicking - The AI Version](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/05/23/LockPickingHearingTumblers.html)
-* [Linguistic Sleight](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/04/24/LinguisticSleight.html)
+* [Ads in AI Chatbots](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai,/governance,/responsibleai,/ethics/2026/09/05/AdsInChatbots.html)
+* [Open AI Hugging Face Report](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai,/security/2026/09/01/OpenAIHuggingFaceReport.html)
+* [HandOff Tax](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai/2026/08/29/HandOffTax.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
-* [Semantic vs Syntactic](https://github.com/vidyabhandary/til/blob/master/tech_reads/SemanticVsSyntactcic.md)
-* [Dialogue Intelligibility Metric](https://github.com/vidyabhandary/til/blob/master/tech_reads/Dialogue_Intelligibility_Metric.md)
-* [Key responsibilities of **AWS Systems Manager**:](https://github.com/vidyabhandary/til/blob/master/aws/AWS_SystemMgr.md)
+* [Agent Handoffs](https://github.com/vidyabhandary/til/blob/master/genai/AgentHandoffs.md)
+* [LLM-as-a-Judge](https://github.com/vidyabhandary/til/blob/master/genai/LLMsAsJudge.md)
+* [Agent Handoffs](https://github.com/vidyabhandary/til/blob/master/genai/AgentHandOff.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
