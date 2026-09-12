@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [Agent Handoffs](https://github.com/vidyabhandary/til/blob/master/genai/AgentHandoffs.md)
+* [LLM-as-a-Judge](https://github.com/vidyabhandary/til/blob/master/genai/LLMsAsJudge.md)
 * [Agent Handoffs](https://github.com/vidyabhandary/til/blob/master/genai/AgentHandOff.md)
-* [Structured Outputs](https://github.com/vidyabhandary/til/blob/master/genai/StructuredOutput.md)
-* [Parent–Child Retrieval](https://github.com/vidyabhandary/til/blob/master/genai/ParentChildRetrivalRAG.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
