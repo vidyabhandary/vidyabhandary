@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [Context Compaction](https://github.com/vidyabhandary/til/blob/master/genai/ContextCompaction.md)
 * [Authorization-Aware RAG](https://github.com/vidyabhandary/til/blob/master/genai/AuthorizationRAG.md)
 * [Agent Handoffs](https://github.com/vidyabhandary/til/blob/master/genai/AgentHandoffs.md)
-* [LLM-as-a-Judge](https://github.com/vidyabhandary/til/blob/master/genai/LLMsAsJudge.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
