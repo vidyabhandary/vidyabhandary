@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [Continuous Batching](https://github.com/vidyabhandary/til/blob/master/genai/ContinuousBatching.md)
 * [Reranking](https://github.com/vidyabhandary/til/blob/master/genai/Rerank.md)
 * [Context Compaction](https://github.com/vidyabhandary/til/blob/master/genai/ContextCompaction.md)
-* [Authorization-Aware RAG](https://github.com/vidyabhandary/til/blob/master/genai/AuthorizationRAG.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
