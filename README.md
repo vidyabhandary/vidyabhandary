@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [Temporal RAG](https://github.com/vidyabhandary/til/blob/master/genai/TemporalRag.md)
 * [Mixture of Experts (MoE)](https://github.com/vidyabhandary/til/blob/master/genai/MOE.md)
 * [Continuous Batching](https://github.com/vidyabhandary/til/blob/master/genai/ContinuousBatching.md)
-* [Reranking](https://github.com/vidyabhandary/til/blob/master/genai/Rerank.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
