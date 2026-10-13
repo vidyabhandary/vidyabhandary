@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
+* [PII Minimization](https://github.com/vidyabhandary/til/blob/master/genai/PIIMinimization.md)
 * [Semantic VAD](https://github.com/vidyabhandary/til/blob/master/genai/SemanticVAD.md)
 * [Temporal RAG](https://github.com/vidyabhandary/til/blob/master/genai/TemporalRag.md)
-* [Mixture of Experts (MoE)](https://github.com/vidyabhandary/til/blob/master/genai/MOE.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
