@@ -9,9 +9,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 ### On my blog
 
 <!-- blog starts -->
-* [Ads in AI Chatbots](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai,/governance,/responsibleai,/ethics/2026/09/05/AdsInChatbots.html)
-* [Open AI Hugging Face Report](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai,/security/2026/09/01/OpenAIHuggingFaceReport.html)
-* [HandOff Tax](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai/2026/08/29/HandOffTax.html)
+* [XCPE Botnet Attack](https://vidyabhandary.github.io/blog/llms,/ai,/security/2026/11/03/HardwareSupplyChainThreat.html)
+* [LiteLLM Attack](https://vidyabhandary.github.io/blog/llms,/ai,/security/2026/10/27/LiteLLMAtttack.html)
+* [Large-scale online deanonymization with LLMs](https://vidyabhandary.github.io/blog/llms,/ai,/distributed/systems,/agenticai,/governance,/responsibleai,/ethics,/privacy/2026/10/15/Deanonymization.html)
 <!-- blog ends -->
   More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
   </tr>
@@ -22,9 +22,9 @@ More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
 
 <!-- tilentries starts -->
 
-* [Agent Handoffs](https://github.com/vidyabhandary/til/blob/master/genai/AgentHandoffs.md)
-* [LLM-as-a-Judge](https://github.com/vidyabhandary/til/blob/master/genai/LLMsAsJudge.md)
-* [Agent Handoffs](https://github.com/vidyabhandary/til/blob/master/genai/AgentHandOff.md)
+* [PII Minimization](https://github.com/vidyabhandary/til/blob/master/genai/PIIMinimization.md)
+* [Semantic VAD](https://github.com/vidyabhandary/til/blob/master/genai/SemanticVAD.md)
+* [Temporal RAG](https://github.com/vidyabhandary/til/blob/master/genai/TemporalRag.md)
 <!-- tilentries ends -->
   More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
   </tr>
