@@ -1,6 +1,5 @@
-python-graphql-client==0.3.0
+requests>=2.32.0,<3
 httpx
 feedparser
 GitPython
 sqlite-utils
-
